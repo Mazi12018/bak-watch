@@ -1,0 +1,15 @@
+# 비밀 정보·기록은 절대 GitHub 에 올리지 않음
+config.ini
+config.ini.*
+state.json
+alive.json
+*.log
+*.log.*
+backup/
+board_dump.html
+capture_test.png
+__pycache__/
+*.pyc
+*.bak
+*.new
+*.tmp
